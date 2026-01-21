@@ -11,7 +11,7 @@ if(isNaN(GD) || GD > 100 || GD < 0 ){
 }else if(GD >= 60){
     console.log("Grade is C");
 }else if(GD >= 50){
-    console.log("Grade is B");
+    console.log("Grade is D");
 }else{
     console.log("Grade is F");
 }
